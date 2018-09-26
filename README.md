@@ -1,2 +1,2 @@
 # NoteSystem
-Example Code for "How I Discovered C# SortedSet Uses Binary Search and Why You Should Care"
+Example Code for "How I Discovered C# SortedList Uses Binary Search and Why You Should Care"
